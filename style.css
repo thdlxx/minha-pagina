@@ -2,10 +2,23 @@ body{
     background: #CCCCCC
 }
 
-p {
-    text-align: center;
+#banner{
+
 }
 
-em strong{
+h1{
+    text-align: center
+}
+p {
+    text-align: center;
+
+}
+
+#missao{
+    font-size: 20px
+}
+
+m strong{
     color: red;
+
 }
